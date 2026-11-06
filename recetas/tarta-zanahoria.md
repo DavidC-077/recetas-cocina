@@ -46,5 +46,5 @@ Deliciosa tarta de zanahoria casera, esponjosa y jugosa, con un suave aroma a ca
 ## Autoría
 
 - **Nombre:** David Cutillas Sala.
-- **Usuario:** DavidC-077.
+- **Usuario:** DavidC-077. 
 
